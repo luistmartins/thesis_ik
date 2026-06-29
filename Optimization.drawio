@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9IFDnJtUkO9RVVz0IMWX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="$$X_{RT}$$" vertex="1">
-          <mxGeometry height="20" width="60" x="257.51" y="175" as="geometry" />
+          <mxGeometry height="20" width="60" x="190" y="175" as="geometry" />
         </mxCell>
         <mxCell id="9IFDnJtUkO9RVVz0IMWX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="$$T_{hold}$$" vertex="1">
           <mxGeometry height="20" width="60" x="190" y="205" as="geometry" />
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="9IFDnJtUkO9RVVz0IMWX-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Output&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="710" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="9IFDnJtUkO9RVVz0IMWX-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="$$W_{T}$$" vertex="1">
+          <mxGeometry height="20" width="60" x="257.51" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="9IFDnJtUkO9RVVz0IMWX-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="$$P_{lim}$$" vertex="1">
+          <mxGeometry height="20" width="60" x="325.82" y="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
