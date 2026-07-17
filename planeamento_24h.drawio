@@ -7,7 +7,7 @@
         <mxCell id="YWSOVlbLhbnwWwXGiv1e-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=south;" value="Algorithm" vertex="1">
           <mxGeometry height="260" width="150" x="339" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="fFnzqJDEAziovmkc9Y7j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$ P_{lim}(k) $$&lt;/span&gt;" vertex="1">
+        <mxCell id="fFnzqJDEAziovmkc9Y7j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$ E_{lim}(k) $$&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="200" y="220" as="geometry" />
         </mxCell>
         <mxCell id="fFnzqJDEAziovmkc9Y7j-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;$$DC_{j}^{base}(k)$$&lt;/p&gt;" vertex="1">
