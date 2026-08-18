@@ -30,16 +30,16 @@
             <mxPoint x="-200" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Device Characterization" vertex="1">
+        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Device Modelling" vertex="1">
           <mxGeometry height="60" width="120" x="-180" y="325" as="geometry" />
         </mxCell>
         <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-32" edge="1" parent="1" source="Xc7GEF8ZbL3c4VNK1tNQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xc7GEF8ZbL3c4VNK1tNQ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PV Characterization" vertex="1">
+        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PV Modelling" vertex="1">
           <mxGeometry height="60" width="120" x="-180" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BESS Characterization" vertex="1">
+        <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BESS Modelling" vertex="1">
           <mxGeometry height="60" width="120" x="-180" y="492.5" as="geometry" />
         </mxCell>
         <mxCell id="Xc7GEF8ZbL3c4VNK1tNQ-31" edge="1" parent="1" source="Xc7GEF8ZbL3c4VNK1tNQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xc7GEF8ZbL3c4VNK1tNQ-30">
