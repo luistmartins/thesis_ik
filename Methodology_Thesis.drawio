@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="MniGFOzheeUqxNTEUZkp">
-    <mxGraphModel dx="3398" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2595" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="ccR-JhY9qdzyaHB-UaXw-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$X_{opt},Y_{opt},P_{rlx}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="124" x="1216" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="ccR-JhY9qdzyaHB-UaXw-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$X_{opt}=X_{RT}$$&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$Y_{opt}=Y_{RT}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ccR-JhY9qdzyaHB-UaXw-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$X_{opt}=X_{Plan}$$&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$Y_{opt}=Y_{Plan}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1048" y="385" as="geometry" />
         </mxCell>
         <mxCell id="ccR-JhY9qdzyaHB-UaXw-32" edge="1" parent="1" source="ccR-JhY9qdzyaHB-UaXw-20" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" target="ccR-JhY9qdzyaHB-UaXw-31" value="No">
@@ -342,6 +342,9 @@
             <mxPoint x="650" y="305" as="sourcePoint" />
             <mxPoint x="829.3000000000002" y="285" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Psb4SZemnDbJyi36Hoaj-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot;&gt;&lt;i&gt;k&lt;/i&gt;: 15-min intervals&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;i&gt;t:&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1-min timesteps&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="105" x="-372.5" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
