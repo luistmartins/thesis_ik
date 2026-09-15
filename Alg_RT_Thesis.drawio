@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2112" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2241" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -239,7 +239,7 @@
         <mxCell id="ZRecHXXAuFXUtuM6sn2I-16" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LOY8rBfaeK0PS4lBKwG2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xg_MDsbQ6m-ucHCHZWGE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LOY8rBfaeK0PS4lBKwG2-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$Y_{RT}(t-1),X_{RT}(t-1),count_j(t-1), W_T(t-1),T_{ON}(t),T_{OFF}(t), X(t),Y(t),P_{lim}(t)$$&lt;/span&gt;" vertex="1">
+        <mxCell id="LOY8rBfaeK0PS4lBKwG2-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$Y_{RT}(t-1),X_{RT}(t-1),count_j(t-1), W_T(t-1),T_{ON,j}(t),T_{OFF,j}(t), X(t),Y(t),P_{lim}(t)$$&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="519.49" x="-535" y="170" as="geometry" />
         </mxCell>
         <mxCell id="ZRecHXXAuFXUtuM6sn2I-24" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZRecHXXAuFXUtuM6sn2I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="e9xMK0wTG0Hcc4vu2DVV-18">
