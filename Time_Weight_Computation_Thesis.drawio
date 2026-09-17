@@ -63,10 +63,10 @@
             <mxPoint x="340" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hr3rPNxv-DiSiju2Znl-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = 10 - \frac{9}{T_{ON}(t)}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="9hr3rPNxv-DiSiju2Znl-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = 10 - \beta(t)$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="136" x="324" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="9hr3rPNxv-DiSiju2Znl-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = 1 + \frac{9}{T_{OFF}(t)}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="9hr3rPNxv-DiSiju2Znl-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = 1 + \alpha(t)$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="136" x="324" y="85" as="geometry" />
         </mxCell>
         <mxCell id="9hr3rPNxv-DiSiju2Znl-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="State OFF?" vertex="1">
@@ -111,10 +111,10 @@
             <mxPoint x="710" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hr3rPNxv-DiSiju2Znl-48" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = W_T(t-1) + \frac{9}{T_{OFF}(t)}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="9hr3rPNxv-DiSiju2Znl-48" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;$$W_T(t) = W_T(t-1) + \alpha(t)$$&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="699" y="85" as="geometry" />
         </mxCell>
-        <mxCell id="9hr3rPNxv-DiSiju2Znl-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = W_T(t-1) - \frac{9}{T_{ON}(t)}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="9hr3rPNxv-DiSiju2Znl-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;$$W_T(t) = W_T(t-1) - \beta(t)$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="200" x="699" y="265" as="geometry" />
         </mxCell>
         <mxCell id="9hr3rPNxv-DiSiju2Znl-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="$$t=T$$" vertex="1">
