@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="YbS_kNs0z6A06d6V1lrS">
-    <mxGraphModel dx="2112" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1285" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,21 +57,6 @@
         </mxCell>
         <mxCell id="9PpDCq__RTIrPZKQLvBm-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;B&lt;/i&gt; minutes" vertex="1">
           <mxGeometry height="30" width="60" x="475" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PSZsRak_1SDAirPA2-wc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$W_j^T(k)=W_j^T(k-1)+n_{\mathrm{OFF},j,k}\alpha_{j,k}-n_{\mathrm{ON},j,k}\beta_{j,k}$$" vertex="1">
-          <mxGeometry height="60" width="320" x="-220" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="PSZsRak_1SDAirPA2-wc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$DC_{j,k}=\frac{1}{\mathcal{B}}\sum_{t \in \mathcal{B}_k}X_j(t)$$" vertex="1">
-          <mxGeometry height="40" width="140" x="130" y="560" as="geometry" />
-        </mxCell>
-        <mxCell id="PSZsRak_1SDAirPA2-wc-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\beta_{j,k}=\frac{1}{DC_{j,k}}\sum_{\substack{t \in \mathcal{B}_k\\X_j(t)=1}}\frac{W_{\max}-W_{\min}}{T_{\mathrm{ON},j}(t)}$$" vertex="1">
-          <mxGeometry height="52" width="245" x="650" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="PSZsRak_1SDAirPA2-wc-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\alpha_{j,k}=\frac{1}{1-DC_{j,k}}\sum_{\substack{t \in \mathcal{B}_k\\X_j(t)=0}}\frac{W_{\max}-W_{\min}}{T_{\mathrm{OFF},j}(t)}$$" vertex="1">
-          <mxGeometry height="52" width="245" x="270" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="PSZsRak_1SDAirPA2-wc-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$W^P_{j,k}=W^P_{\min,j}+\frac{W^P_{\max,j}-W^P_{\min,j}}{Y_{\max,j}-Y_{\min,j}}\left(Y_{j,k}-Y_{\min,j}\right)$$" vertex="1">
-          <mxGeometry height="60" width="320" x="915" y="566" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Block-level characterization&lt;/b&gt;$$DC^{FC}_{j,k} ,\alpha_{j,k},&amp;nbsp;\beta_{j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="161.75" x="333" y="120" as="geometry" />
