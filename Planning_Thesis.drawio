@@ -73,8 +73,8 @@
         <mxCell id="PSZsRak_1SDAirPA2-wc-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$W^P_{j,k}=W^P_{\min,j}+\frac{W^P_{\max,j}-W^P_{\min,j}}{Y_{\max,j}-Y_{\min,j}}\left(Y_{j,k}-Y_{\min,j}\right)$$" vertex="1">
           <mxGeometry height="60" width="320" x="915" y="566" as="geometry" />
         </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="&lt;div&gt;&lt;font&gt;For each Block k, compute:&lt;/font&gt;&lt;/div&gt;&lt;font&gt;$$DC_{j,k} ,\alpha_{j,k},&amp;nbsp;\beta_{j,k}$$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="157.5" x="336.25" y="120" as="geometry" />
+        <mxCell id="WYPx9MC99n8pFicL4iam-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Block-level characterization&lt;/b&gt;$$DC^{FC}_{j,k} ,\alpha_{j,k},&amp;nbsp;\beta_{j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="161.75" x="333" y="120" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=24;endSize=7;fillColor=#f5f5f5;strokeColor=#666666;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
