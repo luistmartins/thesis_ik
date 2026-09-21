@@ -264,7 +264,7 @@
         <mxCell id="40Sk81wDHQN7M9iT8otg-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;p class=&quot;p1&quot;&gt;$$X_{before,opt}(t)=0$$&lt;/p&gt;" vertex="1">
           <mxGeometry height="35" width="99.26" x="-280.27" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="40Sk81wDHQN7M9iT8otg-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;p class=&quot;p1&quot;&gt;$$X_{before,opt}(t)=0$$&lt;/p&gt;" vertex="1">
+        <mxCell id="40Sk81wDHQN7M9iT8otg-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;p class=&quot;p1&quot;&gt;$$X_{before,opt}(t)=1$$&lt;/p&gt;" vertex="1">
           <mxGeometry height="35" width="99.26" x="-168" y="480" as="geometry" />
         </mxCell>
         <mxCell id="40Sk81wDHQN7M9iT8otg-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="&lt;p class=&quot;p1&quot;&gt;$$X_{before,opt}(t)=X(t)$$&lt;/p&gt;" vertex="1">
