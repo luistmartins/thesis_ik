@@ -111,9 +111,6 @@
         <mxCell id="WYPx9MC99n8pFicL4iam-5" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$n^{OPT}_{\mathrm{ON},j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="C--5xalDuSTYNBqE96nO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n_{\mathrm{ON},j,k}" vertex="1">
-          <mxGeometry height="30" width="60" x="620" y="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
