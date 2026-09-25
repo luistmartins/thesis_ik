@@ -59,7 +59,7 @@
           <mxGeometry height="30" width="60" x="475" y="90" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Block-level characterization&lt;/b&gt;$$n^{FC}_{\mathrm{ON},j,k} ,\alpha_{j,k},&amp;nbsp;\beta_{j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="161.75" x="333" y="120" as="geometry" />
+          <mxGeometry height="60" width="161.75" x="334.13" y="120" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=24;endSize=7;fillColor=#f5f5f5;strokeColor=#666666;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -110,6 +110,9 @@
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-5" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$n^{OPT}_{\mathrm{ON},j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cnNtsKV5OTinQKOPwj3z-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=15;" value="$$X^{FC}_j:$$" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
