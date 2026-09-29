@@ -204,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOY8rBfaeK0PS4lBKwG2-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$Y_{RT}(t-1),count_j(t-1), W_T(t-1),\alpha(t),\beta(t), X(t),Y(t),P_{lim}(t)$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="519.49" x="-535" y="170" as="geometry" />
+          <mxGeometry height="30" width="420.85" x="-485.67" y="169" as="geometry" />
         </mxCell>
         <mxCell id="vwSwxokZRBcCHH-wlr59-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="40Sk81wDHQN7M9iT8otg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
