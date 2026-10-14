@@ -102,13 +102,13 @@
         <mxCell id="WYPx9MC99n8pFicL4iam-13" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;$$W_{\min,j}\leq W_{T,j}(k) \leq W_{max,j}$$&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="173.75" x="78" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="D73Iy-9TgS5uHmnEqr48-4" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$Y^{OPT}_{j,k}$$" vertex="1">
+        <mxCell id="D73Iy-9TgS5uHmnEqr48-4" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$Y^{OPT}_{j}(k)$$" vertex="1">
           <mxGeometry height="30" width="78" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="D73Iy-9TgS5uHmnEqr48-7" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$E^{rlx}_{k}$$" vertex="1">
+        <mxCell id="D73Iy-9TgS5uHmnEqr48-7" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$E^{rlx}(k)$$" vertex="1">
           <mxGeometry height="52" width="78" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-5" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$n^{OPT}_{\mathrm{ON},j,k}$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="WYPx9MC99n8pFicL4iam-5" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$n^{OPT}_{\mathrm{ON},j}(k)$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="78" y="50" as="geometry" />
         </mxCell>
         <mxCell id="cnNtsKV5OTinQKOPwj3z-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=15;" value="$$X^{FC}_j(t)$$" vertex="1">
