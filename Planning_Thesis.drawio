@@ -68,33 +68,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;horizontal=1;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" value="Day-Ahead Optimization" vertex="1">
-          <mxGeometry height="170" width="750" x="60" y="230" as="geometry">
+          <mxGeometry height="170" width="785" x="25" y="230" as="geometry">
             <mxRectangle height="30" width="170" x="115.75" y="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-8" parent="WYPx9MC99n8pFicL4iam-4" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Decision Variables&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="78" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-7" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$W_{T,j}(k)=W_{T,j}(k-1)+B\alpha_{j}(k)-n^{OPT}_{\mathrm{ON},j}(k)(\alpha_{j}(k)+\beta_{j}(k))$$" vertex="1">
-          <mxGeometry height="30" width="362" x="78" y="50" as="geometry" />
+        <mxCell id="WYPx9MC99n8pFicL4iam-7" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$W_{T,j}(k)=W_{T,j}(k-1)+|\mathcal{T}_j(k)|\alpha_{j}(k)-n^{OPT}_{\mathrm{ON},j}(k)(\alpha_{j}(k)+\beta_{j}(k))$$" vertex="1">
+          <mxGeometry height="30" width="397" x="78" y="50" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-9" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$W_{P,j}(k)=W_{\min,j}+\frac{W_{\max,j}-W_{\min,j}}{Y_{\max,j}-Y_{\min,j}}\left(Y^{OPT}_{j}(k)-Y_{\min,j}\right)$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="362" x="78" y="110" as="geometry" />
+          <mxGeometry height="60" width="397" x="78" y="110" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-16" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;br&gt;$$Y_{\min,j}\leq Y^{OPT}_{j}(k)\leq Y_{\max,j}$$&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="188.25" x="251.75" y="80" as="geometry" />
+          <mxGeometry height="30" width="223.25" x="251.75" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-18" parent="WYPx9MC99n8pFicL4iam-4" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Kitchen-level constraint&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="440" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-19" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;$$E^{NF}(k) + E^{TF}(k) + E^{PF}(k)\leq E^{lim}(k) + E^{rlx}(k)$$&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="440" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WYPx9MC99n8pFicL4iam-21" parent="WYPx9MC99n8pFicL4iam-4" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Objective Function&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="440" y="80" as="geometry" />
+        <mxCell id="WYPx9MC99n8pFicL4iam-21" parent="WYPx9MC99n8pFicL4iam-4" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeColor=default;" value="&lt;b&gt;Objective Function&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="475" y="80" as="geometry" />
         </mxCell>
         <mxCell id="WYPx9MC99n8pFicL4iam-20" parent="WYPx9MC99n8pFicL4iam-4" style="whiteSpace=wrap;html=1;" value="$$\min \; C_{\mathrm{obj}} + \lambda_{\mathrm{rlx}} C_{\mathrm{violation}}$$" vertex="1">
-          <mxGeometry height="60" width="310" x="440" y="110" as="geometry" />
+          <mxGeometry height="60" width="310" x="475" y="110" as="geometry" />
         </mxCell>
         <mxCell id="D73Iy-9TgS5uHmnEqr48-2" parent="WYPx9MC99n8pFicL4iam-4" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Device-level constraint&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="362" x="78" y="20" as="geometry" />
@@ -154,6 +148,12 @@
             <mxPoint x="600" y="183" as="sourcePoint" />
             <mxPoint x="600" y="223" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WYPx9MC99n8pFicL4iam-19" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;$$E^{NF}(k) + E^{TF}(k) + E^{PF}(k)\leq E^{lim}(k) + E^{rlx}(k)$$&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WYPx9MC99n8pFicL4iam-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Kitchen-level constraint&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="500" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
