@@ -1,9 +1,8 @@
+# macOS
+.DS_Store
+
+# VS Code
 .vscode/
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
-# Mac
-.DS_Store
 
 # Python
 __pycache__/
@@ -12,23 +11,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-Data/
-data/
-*.csv
-*.xlsx
-*.xls
-
-# Solver
+# Solver temporary files
 *.log
 *.lp
 *.sol
-
-# Phase 1 deliverables
-!solver_logs/*.log
-!solver_diagnostics/*.csv
-!min_cost_blocksize_results/**/*.csv
-!min_cost_blocksize_results/**/*.log
-!block_size_comparison/*.csv
-!block_size_comparison/*.png
-!block_size_comparison/**/*.log
