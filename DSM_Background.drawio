@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="ygXA5sohy_D1MG-6Z_jt">
+    <mxGraphModel dx="934" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-3" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="blyrmJ6IOSiq9bYHMA_7-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="150" />
+              <mxPoint x="480" y="190" />
+              <mxPoint x="310" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-5" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="blyrmJ6IOSiq9bYHMA_7-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="150" />
+              <mxPoint x="480" y="190" />
+              <mxPoint x="560" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Demand Side Managment" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-9" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="blyrmJ6IOSiq9bYHMA_7-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Energy Efficiency" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-11" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="blyrmJ6IOSiq9bYHMA_7-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-12" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="blyrmJ6IOSiq9bYHMA_7-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-13" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="blyrmJ6IOSiq9bYHMA_7-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-14" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="blyrmJ6IOSiq9bYHMA_7-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Demand Response Programs" vertex="1">
+          <mxGeometry height="60" width="120" x="495.25" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Permanent Solution to reduce power consumption&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-20" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="blyrmJ6IOSiq9bYHMA_7-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Incentive-Based" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-17" edge="1" parent="1" source="blyrmJ6IOSiq9bYHMA_7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="blyrmJ6IOSiq9bYHMA_7-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Price-Based" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TOU&lt;div&gt;RTP&lt;br&gt;CPP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="blyrmJ6IOSiq9bYHMA_7-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Direct Load Control (DLC)&lt;div&gt;Interruptible/Curtailable Services (I/Cs)&lt;/div&gt;&lt;div&gt;Demand Bidding (DB)&lt;/div&gt;&lt;div&gt;Emergency Demand Response Programs (EDRP)&lt;/div&gt;&lt;div&gt;Ancillary Services&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="282.5" x="332.75" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
