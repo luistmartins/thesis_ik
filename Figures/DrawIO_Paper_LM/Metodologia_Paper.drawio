@@ -37,7 +37,7 @@
         <mxCell id="22" parent="1" style="ellipse;fillColor=#67ae4a;strokeColor=none;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="56" width="56" x="961" y="79" as="geometry" />
         </mxCell>
-        <mxCell id="23" parent="1" style="text;html=0;whiteSpace=wrap;overflow=visible;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=39.0;fontColor=white;fontStyle=1;spacing=0;" value="3" vertex="1">
+        <mxCell id="23" parent="1" style="text;html=0;whiteSpace=wrap;overflow=visible;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=39.0;fontColor=white;fontStyle=1;spacing=0;" value="2" vertex="1">
           <mxGeometry height="54.6" width="29.84" x="974.0799999999999" y="77.83" as="geometry" />
         </mxCell>
         <mxCell id="24" parent="1" style="text;html=0;whiteSpace=wrap;overflow=visible;fillColor=none;strokeColor=none;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=21.0;fontColor=#111;fontStyle=1;spacing=0;" value="Real-Time Control" vertex="1">
